@@ -9,9 +9,12 @@
 			"id": "2",
 			"date": "2017-12-13",
 			"recipient": {},
-			"currency": "$",
+			"currency": "£",
 			"services": [
-				{}
+				{
+					"description": "hosting",
+					"amount": "99"
+				}
 			]
 		},
 		{
