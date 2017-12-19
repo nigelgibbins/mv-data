@@ -50,7 +50,10 @@
 				}
 			],
 			"tasks": [
-				{}
+				{
+					"description": "My test",
+					"amount": "500"
+				}
 			]
 		},
 		{
