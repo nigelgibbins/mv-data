@@ -22,6 +22,17 @@
 	],
 	"invoice": [
 		{
+			"id": "2",
+			"date": "2017-12-20",
+			"recipient": {
+				"name": "Test 2"
+			},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
 			"id": "1",
 			"date": "2017-12-27",
 			"recipient": {
