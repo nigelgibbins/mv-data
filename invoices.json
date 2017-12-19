@@ -1,19 +1,21 @@
 {
 	"companyLogo": "http://lea.verou.me/logo.svg",
 	"companyName": "NjSys",
-	"companyAddress": "39 Hill Road",
+	"companyAddress": "N/A",
 	"companyURL": "http://njsys.co.uk",
 	"companyEmail": "nigel.gibbins@njsys.co.uk",
 	"invoice": [
 		{
 			"date": "2017-12-21",
 			"recipient": {
-				"name": "Joe Bloggs"
+				"name": "Joe Bloggs",
+				"address": "I have forgotten...."
 			},
-			"currency": "£",
+			"currency": "$",
 			"services": [
 				{}
-			]
+			],
+			"id": "44"
 		},
 		{
 			"id": "2",
@@ -22,7 +24,7 @@
 				"name": "Widget Corp",
 				"address": "1 Technology Square\nCambridge, MA 02139"
 			},
-			"currency": "£",
+			"currency": "$",
 			"services": [
 				{
 					"description": "Website design",
@@ -45,7 +47,7 @@
 				"name": "John Doe",
 				"address": "2 Modern Red Square\nLong Island City\nNew York, NY 1120"
 			},
-			"currency": "£",
+			"currency": "$",
 			"services": [
 				{
 					"description": "House cleaning",
