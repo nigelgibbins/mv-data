@@ -71,7 +71,10 @@
 				}
 			],
 			"tasks": [
-				{}
+				{
+					"description": "Hosting",
+					"amount": "79.99"
+				}
 			]
 		}
 	]
