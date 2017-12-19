@@ -10,7 +10,7 @@
 			"recipient": {
 				"name": "Joe Bloggs"
 			},
-			"currency": "$",
+			"currency": "£",
 			"services": [
 				{}
 			]
@@ -22,7 +22,7 @@
 				"name": "Widget Corp",
 				"address": "1 Technology Square\nCambridge, MA 02139"
 			},
-			"currency": "$",
+			"currency": "£",
 			"services": [
 				{
 					"description": "Website design",
@@ -45,7 +45,7 @@
 				"name": "John Doe",
 				"address": "2 Modern Red Square\nLong Island City\nNew York, NY 1120"
 			},
-			"currency": "$",
+			"currency": "£",
 			"services": [
 				{
 					"description": "House cleaning",
