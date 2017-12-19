@@ -6,13 +6,6 @@
 	"companyEmail": "nigel.gibbins@njsys.co.uk",
 	"invoice": [
 		{
-			"recipient": {},
-			"currency": "£",
-			"services": [
-				{}
-			]
-		},
-		{
 			"date": "2017-12-21",
 			"recipient": {
 				"name": "Joe Bloggs",
