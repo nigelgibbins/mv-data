@@ -6,6 +6,15 @@
 	"companyEmail": "nigel.gibbins@njsys.co.uk",
 	"service": [
 		{
+			"id": "2",
+			"date": "2017-12-13",
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
 			"id": "1",
 			"recipient": {
 				"name": "Joe Bloggs",
@@ -16,8 +25,12 @@
 				{
 					"description": "\n\t\t\t\t\t\tDescription of service provided ",
 					"amount": "Amount"
-				}
-			]
+				},
+				{},
+				{},
+				{}
+			],
+			"date": "2017-12-21"
 		}
 	],
 	"invoice": [
