@@ -15,7 +15,17 @@
 			"services": [
 				{}
 			],
-			"id": "44"
+			"id": "44",
+			"tasks": [
+				{
+					"description": "Testing",
+					"amount": "99.99"
+				},
+				{
+					"description": "Retesting",
+					"amount": "250.00"
+				}
+			]
 		},
 		{
 			"id": "2",
@@ -38,6 +48,9 @@
 					"description": "Web hosting",
 					"amount": "20"
 				}
+			],
+			"tasks": [
+				{}
 			]
 		},
 		{
@@ -53,6 +66,9 @@
 					"description": "House cleaning",
 					"amount": "70"
 				}
+			],
+			"tasks": [
+				{}
 			]
 		}
 	]
