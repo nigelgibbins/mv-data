@@ -1,0 +1,23 @@
+{
+	"companyLogo": "http://lea.verou.me/logo.svg",
+	"companyName": "NJSys",
+	"companyAddress": "N/a",
+	"companyURL": "http://njsys.co.uk",
+	"companyEmail": "nigel.gibbins@njsys.co.uk",
+	"service": [
+		{
+			"id": "1",
+			"recipient": {
+				"name": "Joe Bloggs",
+				"address": "Recipient address"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "\n\t\t\t\t\t\tDescription of service provided ",
+					"amount": "Amount"
+				}
+			]
+		}
+	]
+}
