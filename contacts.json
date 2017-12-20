@@ -15,6 +15,12 @@
 					"name": "Email",
 					"email": "leaverou@mit.edu"
 				}
+			],
+			"description": [
+				{
+					"name": "Description",
+					"description": "A test "
+				}
 			]
 		},
 		{
@@ -28,6 +34,11 @@
 			"emailAddress": [
 				{
 					"name": "Email"
+				}
+			],
+			"description": [
+				{
+					"name": "Description"
 				}
 			]
 		}
